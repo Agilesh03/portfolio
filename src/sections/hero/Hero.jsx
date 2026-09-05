@@ -36,7 +36,7 @@ function Hero() {
             </a>
 
             <a
-              href="/resume.pdf"
+              href="/Agilesh_P_resume.pdf"
               download
               className="rounded-lg border border-white/20 px-6 py-3 font-medium text-white transition hover:border-blue-500 hover:text-blue-400"
             >
@@ -110,7 +110,7 @@ function Hero() {
 
             <div className="relative h-72 w-72 overflow-hidden rounded-full border border-white/10 md:h-96 md:w-96">
               <img
-                src="/profile.jpeg"
+                src="/profile_2.png"
                 alt="Agilesh P"
                 className="h-full w-full object-cover"
               />
