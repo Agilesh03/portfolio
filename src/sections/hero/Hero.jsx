@@ -36,7 +36,7 @@ function Hero() {
             </a>
 
             <a
-              href="/Agilesh_P_resume.pdf"
+              href="/Agilesh_resume.pdf"
               download
               className="rounded-lg border border-white/20 px-6 py-3 font-medium text-white transition hover:border-blue-500 hover:text-blue-400"
             >
